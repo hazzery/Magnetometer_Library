@@ -1,0 +1,21 @@
+###########################################
+# Syntax Coloring Map For LiquidCrystal_I2C
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Magnetometer	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+init	KEYWORD2
+writeToRegistery	KEYWORD2
+magReady	KEYWORD2
+getRawData	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################

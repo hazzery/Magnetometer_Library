@@ -1,0 +1,10 @@
+{
+  "name": "Magnetometer_Library",
+  "keywords": "Magnetometer, QMC5883L, 5883",
+  "description": "A library for QMC5883L magnetometer",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
